@@ -30,8 +30,7 @@ Hi, I’m **Aditya Prakash Gupta**, a passionate web developer focused on buildi
 
 ##  Folder Structure
 
-```plaintext
-/
+```plaintext/
 ├── index.html
 ├── style.css
 ├── script.js
