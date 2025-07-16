@@ -7,7 +7,7 @@ This project showcases my skills, projects, and experience as a web developer.
 
 ## 🔗 Live Preview
 
-[Visit Portfolio Websit](https://aditya-prakash-007.github.io/Portfolio/) <!-- Replace # with your GitHub Pages or Vercel/Netlify link -->
+[Visit Portfolio Websit (open in new tab)](https://aditya-prakash-007.github.io/Portfolio/) <!-- Replace # with your GitHub Pages or Vercel/Netlify link -->
 
 ---
 
