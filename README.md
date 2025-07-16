@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio - Aditya Prakash Gupta
+#  Personal Portfolio - Aditya Prakash Gupta
 
 Welcome to my personal portfolio website!  
 This project showcases my skills, projects, and experience as a web developer.
@@ -12,13 +12,13 @@ This project showcases my skills, projects, and experience as a web developer.
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 Hi, I’m **Aditya Prakash Gupta**, a passionate web developer focused on building responsive, accessible, and user-friendly websites using modern front-end technologies.
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - **HTML5**
 - **CSS3**
@@ -28,7 +28,7 @@ Hi, I’m **Aditya Prakash Gupta**, a passionate web developer focused on buildi
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```plaintext
 /
